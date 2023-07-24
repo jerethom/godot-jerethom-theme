@@ -1,9 +1,9 @@
 <scheme name="Godot Theme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-24T17:02:35</property>
+    <property name="created">2023-07-24T19:19:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-07-24T17:02:50</property>
+    <property name="modified">2023-07-24T19:19:37</property>
     <property name="originalScheme">_@user_Godot Theme</property>
   </metaInfo>
   <colors>
@@ -965,7 +965,7 @@
     <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ccced3" />
+        <option name="FOREGROUND" value="ff89fb" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1387,17 +1387,17 @@
     </option>
     <option name="NG.EVENT_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="ccced3" />
+        <option name="FOREGROUND" value="ff89fb" />
       </value>
     </option>
     <option name="NG.PROPERTY_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="ccced3" />
+        <option name="FOREGROUND" value="ff89fb" />
       </value>
     </option>
     <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="ccced3" />
+        <option name="FOREGROUND" value="ff89fb" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
