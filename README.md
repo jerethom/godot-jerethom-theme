@@ -1,4 +1,4 @@
 # godot-jerethom-theme
-Jetbrains theme - Godot Jerethom
+Jetbrains theme based on Gotdot theme
 
 ![Image](image.png)
